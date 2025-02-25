@@ -1,0 +1,5 @@
+setup.py
+vedastro.egg-info/PKG-INFO
+vedastro.egg-info/SOURCES.txt
+vedastro.egg-info/dependency_links.txt
+vedastro.egg-info/top_level.txt
